@@ -6,7 +6,7 @@
     <li>São Paulo/SP</li>
     <li>Brasileiro</li>
     <li>Telefone: (11) 99832-3975 / E-mail: contatoartioli@gmail.com</li>
-    <li>LinkedIn: https://www.linkedin.com/in/gabrielproencaaraujo/](https://www.linkedin.com/in/SouzaArtioli/</li>
+    <li>LinkedIn: https://www.linkedin.com/in/SouzaArtioli/</li>
     <li>GitHub: https://github.com/SouzaArtioli</li>
   </ul>
 <h2>Formação</h2>
